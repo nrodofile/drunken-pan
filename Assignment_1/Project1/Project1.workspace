@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Project1" Database="./Project1.tags">
+  <Project Name="Assignment_1" Path="Assignment_1/Assignment_1.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="Assignment_1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="Assignment_1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
